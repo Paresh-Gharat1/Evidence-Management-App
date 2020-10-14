@@ -1,5 +1,5 @@
-Evidence Management App.
-You should have:-
+Evidence Management App. 
+  You should have:-
   1. Android studio
   2. Firebase authentication.
   3. Emulator Running
